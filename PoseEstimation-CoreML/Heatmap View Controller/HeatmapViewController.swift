@@ -24,7 +24,7 @@ class HeatmapViewController: UIViewController {
     private let 👨‍🔧 = 📏()
     
     // MARK - Core ML model
-    typealias EstimationModel = model_cpm
+    typealias EstimationModel = cpm
     
     // MARK: - Vision Properties
     var request: VNCoreMLRequest?
