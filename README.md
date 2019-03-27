@@ -45,7 +45,7 @@ Here<br>
 
 #### Matadata
 
-|                  | cpm                                      | hourglass          |
+| メタデータ		| cpm                                      | hourglass          |
 | ---------------- | ---------------------------------------- | ------------------ |
 | Input shape      | `[1, 192, 192, 3]`                       | `[1, 192, 192, 3]` |
 | Output shape     | `[1, 96, 96, 14]`                        | `[1, 48, 48, 14]`  |
@@ -55,14 +55,10 @@ Here<br>
 
 #### Inference Time
 
-|               | cpm       | hourglass |
+|  端末          | cpm       | hourglass |
 | ------------- | --------- | --------- |
-| iPhone XS     | (`TODO`)  | (`TODO`)  |
-| iPhone XS Max | (`TODO`)  | (`TODO`)  |
 | iPhone X      | 51 ms     | 49 ms     |
 | iPhone 8+     | 49 ms     | 46 ms     |
-| iPhone 8      | (`TODO`)  | (`TODO`)  |
-| iPhone 7      | (`TODO`)  | (`TODO`)  |
 | iPhone 6+     | 200 ms    | 180 ms    |
 
 ### Get your own model
